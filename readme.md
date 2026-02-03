@@ -1,4 +1,4 @@
-# ❤️ Love Numbers
+Love Numbers
 
 Love Numbers é um projeto em Python criado para ajudar casais a planejarem sua vida financeira de forma simples, prática e consciente.
 
